@@ -15,4 +15,4 @@ Citation
 If you use the data, cite the following publication
 
    T. Wambsganss, C. Niklaus, M. Söllner, S. Handschuh and J. M. Leimeister, 
-   “Supporting Cognitive and Emotional Empathic Writing of Students”
+   “Supporting Cognitive and Emotional Empathic Writing of Students” In: "The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing"
