@@ -1,7 +1,7 @@
 Empathy Annotated Student Peer Reviews Corpus (EASPRC) version 1.0
 -----------------------------------------------------
 
-The corpus contains 500 student peer reviews about business model feedbacks annotated for their cognitive and emotional empathy levels based on three types of review components (_strength, weakness andsuggestions for improvement_s). The folder contains the following files:
+The corpus contains 500 student peer reviews about business model feedbacks annotated for their cognitive and emotional empathy levels based on three types of review components (strength, weakness andsuggestions for improvement). The folder contains the following files:
 
 1. guideline.pdf: the annotation guidelines used in this study
 
